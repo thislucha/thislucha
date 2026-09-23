@@ -13,8 +13,9 @@ and brand communications. Based between Madrid and Ibiza.
 - 🌍 [Rhiza Jobs API](https://thislucha.github.io/rhiza-group-jobs-api/) — climate & sustainability job board for EU, UK and remote roles
 - 📊 [Sustainability Tools](https://thislucha.github.io/sustainability-tools/csrd-generator/) — browser-based CSRD/ESRS report draft generator
 - 📈 [Marketing Tools](https://thislucha.github.io/marketing-tools/) — CAC vs LTV and other growth measurement calculators
-- 🧮 [Carbon Footprint Calculator](https://thislucha.github.io/Carbon-Footprint-Calculator-IE-University/) — lightweight individual carbon footprint estimator
-- 🧮 [IE Carbon Footprint Calculator (prototype)](https://thislucha.github.io/ie-carbon-calculator/) — source-cited, IE-branded version built for IE University's sustainability initiative
+- 🇪🇺 [EU Funding Eligibility Finder](https://thislucha.github.io/EU-Funding-Eligibility-Finder/) — filters 10 EU funding programmes by organization size, country and focus area
+- 🧮 [Carbon Footprint Calculator](https://thislucha.github.io/Carbon-Footprint-Calculator-Personal/) — lightweight individual carbon footprint estimator
+- 🧮 [IE Carbon Footprint Calculator (prototype)](https://thislucha.github.io/IE-University-Carbon-Footprint-Calculator/) — source-cited, IE-branded version built for IE University's sustainability initiative
 
 ---
 
