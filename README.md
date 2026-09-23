@@ -1,20 +1,30 @@
-### Lucía López Noriega — Thislucha / Rhiza Group / Solarpunk Bureau
+# IE Carbon Footprint Calculator
 
-Freelance marketing, sustainability communications, and creative direction.
-13 years of experience across EU-funded projects, sustainability strategy,
-and brand communications. Based between Madrid and Ibiza.
+**Status: prototype.** A branded, source-cited personal carbon footprint
+calculator built for IE University's sustainability initiative.
 
-*Old ways for new things.*
+## What it does
+
+Estimates a user's annual carbon footprint across six categories —
+campus commute, flights, housing & energy, diet, consumption, and
+waste — through a single-page form, and returns a breakdown with the
+source cited for every emission factor used.
+
+## Emission factors & sources
+
+- **Transport:** UK DEFRA 2023
+- **Flights:** ICAO Carbon Calculator (split by short/medium/long haul)
+- **Energy:** IEA 2023, Spain grid factor
+- **Diet:** Poore & Nemecek (2018), *Science*
+- **Consumption:** Ellen MacArthur Foundation; Apple/Dell environmental reports
+- **Waste:** EPA WARM Model; WRAP Food Waste Study
+
+Estimated accuracy: ±20–25%, comparable to WWF and UN carbon calculators.
+
+## Tech
+
+Single-file HTML/CSS/JS. No backend, no build step, no dependencies
+beyond the Montserrat webfont.
 
 ---
-
-**Projects**
-
-- 🌍 [Rhiza Jobs API](https://github.com/thislucha/rhiza-group-jobs-api) — climate & sustainability job board for EU, UK and remote roles
-- 📊 [Sustainability Tools](https://github.com/thislucha/sustainability-tools) — browser-based CSRD/ESRS report draft generator
-- 📈 [Marketing Tools](https://github.com/thislucha/marketing-tools) — CAC vs LTV and other growth measurement calculators
-- 🧮 [Carbon Footprint Calculator](https://github.com/thislucha/carbon-footprint-calculator) — individual carbon footprint estimator built for IE University
-
----
-
-[thislucha.com](#) · [rhizagroup.com](https://rhizagroup.com)
+Built by [Luchi López Noriega](https://github.com/thislucha)
