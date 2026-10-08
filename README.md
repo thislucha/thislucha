@@ -2,9 +2,9 @@
 
 Freelance marketing, sustainability communications, and creative direction.
 13 years of experience across EU-funded projects, sustainability strategy,
-and brand communications. Based between Madrid and Ibiza.
+and brand communications. Working remote in Europe. 
 
-*Old ways for new things.*
+
 
 ---
 
